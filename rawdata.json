@@ -1,0 +1,73 @@
+{
+  "consumer_name": "",
+  "report_date": "",
+  "member_id": "",
+  "report_time": "",
+  "memeber_ref_no": "",
+  "control_no": "",
+  "dob": "",
+  "gender": "",
+  "score_name": "",
+  "score_id": "",
+  "score_factor": [],
+  "identifications": {
+    "identification": {
+      "type": "",
+      "id_number": "",
+      "issue_date": "",
+      "expiration_date": ""
+    }
+  },
+  "telephones": {
+    "telephone": {
+      "type": "",
+      "number": "",
+      "extension": ""
+    }
+  },
+  "email": [],
+  "addresses": {
+    "address": {
+      "add": "",
+      "category": "",
+      "code": "",
+      "date_reported": ""
+    }
+  },
+  "employment": {
+    "acc_type": "",
+    "date_reported": "",
+    "code": "",
+    "income": "",
+    "net_income": "",
+    "monthly_income": ""
+  },
+  "accounts": {
+    "account": {
+      "member_name": "",
+      "opened": "",
+      "high_credit": "",
+      "acc_number": "",
+      "last_payment": "",
+      "current_balance": "",
+      "reported": "",
+      "credit_limit": "",
+      "type": "",
+      "cash_limit": "",
+      "ownership": "",
+      "pym_start": "",
+      "pym_freq": "",
+      "pym_end": "",
+      "interest": "",
+      "actual_pym": ""
+    }
+  },
+  "enquiries": {
+    "enquiry": {
+      "member": "",
+      "date": "",
+      "purpose": "",
+      "amount": ""
+    }
+  }
+}
